@@ -1,0 +1,3 @@
+# requirements.txt
+# Este script usa apenas bibliotecas padrão do Python (stdlib)
+# Nenhuma dependência externa necessária

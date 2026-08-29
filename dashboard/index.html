@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>S&P 500 Dashboard - Por Setores GICS</title>
+  <link rel="stylesheet" href="/src/style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="container">
+      <h1>📊 S&P 500 Dashboard</h1>
+      <p class="subtitle">Visualização interativa dos 503 componentes por setor GICS</p>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="controls">
+      <div class="filter-group">
+        <label for="sector-filter">Setor:</label>
+        <select id="sector-filter">
+          <option value="">Todos os setores</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <label for="search-input">Buscar:</label>
+        <input type="text" id="search-input" placeholder="Símbolo, nome, subindústria...">
+      </div>
+      <div class="filter-group">
+        <label for="sort-select">Ordenar por:</label>
+        <select id="sort-select">
+          <option value="marketCap-desc">Market Cap (maior primeiro)</option>
+          <option value="marketCap-asc">Market Cap (menor primeiro)</option>
+          <option value="symbol-asc">Símbolo (A-Z)</option>
+          <option value="name-asc">Empresa (A-Z)</option>
+          <option value="dividendYield-desc">Dividend Yield (maior primeiro)</option>
+        </select>
+      </div>
+      <div class="stats" id="stats">Carregando...</div>
+    </section>
+
+    <section class="actions">
+      <button id="select-all" class="btn btn-secondary">Selecionar Tudo</button>
+      <button id="deselect-all" class="btn btn-secondary">Limpar Seleção</button>
+      <button id="export-csv" class="btn btn-primary">📥 Exportar CSV</button>
+      <button id="export-json" class="btn btn-primary">📥 Exportar JSON</button>
+    </section>
+
+    <section class="table-wrapper">
+      <table id="companies-table">
+        <thead>
+          <tr>
+            <th><input type="checkbox" id="header-checkbox"></th>
+            <th>#</th>
+            <th>Símbolo</th>
+            <th>Empresa</th>
+            <th>Setor</th>
+            <th>Market Cap</th>
+            <th>Subindústria</th>
+            <th>Sede</th>
+            <th>Div. Yield</th>
+          </tr>
+        </thead>
+        <tbody id="table-body"></tbody>
+      </table>
+    </section>
+
+    <section class="pagination" id="pagination"></section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>Dados: <a href="https://github.com/datasets/s-and-p-500-companies" target="_blank">datasets/s-and-p-500-companies</a> | Classificação: GICS</p>
+      <p>Gerado em 2026-08-29 | <a href="https://github.com" target="_blank">Ver no GitHub</a></p>
+    </div>
+  </footer>
+
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>

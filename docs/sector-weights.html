@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>S&P 500 - Peso dos Setores GICS</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: #f8fafc;
+      min-height: 100vh;
+      padding: 2rem;
+    }
+    .container { max-width: 1000px; margin: 0 auto; }
+    .card {
+      background: white;
+      border-radius: 12px;
+      padding: 2rem;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+      border: 1px solid #e2e8f0;
+    }
+    h1 { font-size: 1.75rem; color: #0f172a; margin-bottom: 0.5rem; }
+    .subtitle { color: #64748b; margin-bottom: 2rem; }
+    .chart-wrapper { position: relative; height: 500px; }
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 1rem;
+      margin-top: 2rem;
+    }
+    .stat-card {
+      background: #f8fafc;
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      padding: 1rem;
+    }
+    .stat-label { font-size: 0.75rem; text-transform: uppercase; color: #64748b; letter-spacing: 0.05em; }
+    .stat-value { font-size: 1.5rem; font-weight: 700; color: #0f172a; margin-top: 0.25rem; font-variant-numeric: tabular-nums; }
+    .legend-custom {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      margin-top: 1.5rem;
+      justify-content: center;
+    }
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-size: 0.8125rem;
+    }
+    .legend-color {
+      width: 14px;
+      height: 14px;
+      border-radius: 3px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="card">
+      <h1>📊 Peso dos Setores GICS no S&P 500</h1>
+      <p class="subtitle">Market Cap total por setor como % do S&P 500 · Dados de 2026-08-27</p>
+      
+      <div class="chart-wrapper">
+        <canvas id="sectorChart"></canvas>
+      </div>
+      
+      <div class="legend-custom" id="customLegend"></div>
+      
+      <div class="stats-grid" id="statsGrid"></div>
+    </div>
+  </div>
+
+  <script>
+const SECTORS = [
+  { id: 'information-technology', name: 'Information Technology', color: '#2563eb' },
+  { id: 'health-care', name: 'Health Care', color: '#059669' },
+  { id: 'financials', name: 'Financials', color: '#dc2626' },
+  { id: 'consumer-discretionary', name: 'Consumer Discretionary', color: '#ea580c' },
+  { id: 'communication-services', name: 'Communication Services', color: '#7c3aed' },
+  { id: 'industrials', name: 'Industrials', color: '#0891b2' },
+  { id: 'consumer-staples', name: 'Consumer Staples', color: '#65a30d' },
+  { id: 'energy', name: 'Energy', color: '#b45309' },
+  { id: 'real-estate', name: 'Real Estate', color: '#db2777' },
+  { id: 'materials', name: 'Materials', color: '#78716c' },
+  { id: 'utilities', name: 'Utilities', color: '#1d4ed8' },
+];
+
+async function loadSectorData() {
+  const sectorData = [];
+  
+  for (const sector of SECTORS) {
+    try {
+      const response = await fetch(`../${sector.id}/${sector.id}.json`);
+      const data = await response.json();
+      const totalMarketCap = data.companies.reduce((sum, c) => sum + (c.marketCap || 0), 0);
+      sectorData.push({
+        ...sector,
+        marketCap: totalMarketCap,
+        count: data.companies.length
+      });
+    } catch (e) {
+      console.error(`Erro ao carregar ${sector.id}:`, e);
+    }
+  }
+  
+  // Ordena por market cap decrescente
+  sectorData.sort((a, b) => b.marketCap - a.marketCap);
+  
+  const totalMarketCap = sectorData.reduce((sum, s) => sum + s.marketCap, 0);
+  
+  // Calcula pesos
+  sectorData.forEach(s => {
+    s.weight = (s.marketCap / totalMarketCap) * 100;
+  });
+  
+  return { sectorData, totalMarketCap };
+}
+
+function renderChart(sectorData) {
+  const labels = sectorData.map(s => s.name);
+  const weights = sectorData.map(s => s.weight);
+  const colors = sectorData.map(s => s.color);
+  
+  const ctx = document.getElementById('sectorChart').getContext('2d');
+  
+  new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels,
+      datasets: [{
+        label: 'Peso no S&P 500 (%)',
+        data: weights,
+        borderColor: '#0f172a',
+        backgroundColor: colors.map(c => c + '33'), // 20% opacity
+        borderWidth: 3,
+        fill: true,
+        tension: 0.3,
+        pointBackgroundColor: colors,
+        pointBorderColor: '#fff',
+        pointBorderWidth: 2,
+        pointRadius: 6,
+        pointHoverRadius: 8,
+      }]
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          backgroundColor: '#0f172a',
+          titleFont: { size: 14 },
+          bodyFont: { size: 13 },
+          padding: 12,
+          callbacks: {
+            label: (ctx) => {
+              const sector = sectorData[ctx.dataIndex];
+              return [
+                `Peso: ${ctx.parsed.y.toFixed(2)}%`,
+                `Market Cap: $${(sector.marketCap / 1e12).toFixed(2)}T`,
+                `Empresas: ${sector.count}`
+              ];
+            }
+          }
+        }
+      },
+      scales: {
+        y: {
+          beginAtZero: true,
+          title: { display: true, text: 'Peso (%)', font: { size: 13, weight: '600' } },
+          grid: { color: '#e2e8f0' },
+          ticks: { callback: (v) => v + '%' }
+        },
+        x: {
+          grid: { display: false },
+          ticks: { maxRotation: 45, minRotation: 45, font: { size: 11 } }
+        }
+      },
+      interaction: { intersect: false, mode: 'index' }
+    }
+  });
+}
+
+function renderLegend(sectorData) {
+  const container = document.getElementById('customLegend');
+  container.innerHTML = sectorData.map(s => `
+    <div class="legend-item">
+      <div class="legend-color" style="background: ${s.color}"></div>
+      <span><strong>${s.name}</strong> — ${s.weight.toFixed(2)}%</span>
+    </div>
+  `).join('');
+}
+
+function renderStats(sectorData, totalMarketCap) {
+  const container = document.getElementById('statsGrid');
+  
+  const top3 = sectorData.slice(0, 3).map(s => s.name).join(', ');
+  const top3Weight = sectorData.slice(0, 3).reduce((sum, s) => sum + s.weight, 0);
+  
+  container.innerHTML = `
+    <div class="stat-card">
+      <div class="stat-label">Market Cap Total</div>
+      <div class="stat-value">$${(totalMarketCap / 1e12).toFixed(2)}T</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-label">Total de Empresas</div>
+      <div class="stat-value">${sectorData.reduce((sum, s) => sum + s.count, 0)}</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-label">Top 3 Setores</div>
+      <div class="stat-value">${top3Weight.toFixed(1)}%</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-label">Setor Líder</div>
+      <div class="stat-value">${sectorData[0].name}</div>
+    </div>
+  `;
+}
+
+loadSectorData().then(({ sectorData, totalMarketCap }) => {
+  renderChart(sectorData);
+  renderLegend(sectorData);
+  renderStats(sectorData, totalMarketCap);
+});
+  </script>
+</body>
+</html>
