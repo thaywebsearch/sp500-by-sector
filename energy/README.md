@@ -1,27 +1,27 @@
 # S&P 500 — Setor Energy
 
-> Fonte: `energy.json` · Ordenado por Market Cap (maior para menor) · Total: 21 empresas
+> Fonte: `energy.json` · Gerado em: 2026-08-31 · Total: 21 empresas
 
-| # | Símbolo | Empresa | Market Cap | Subindústria | Sedes | Dividend Yield |
-|---|---------|---------|------------|--------------|-------|----------------|
-| 1 | XOM | ExxonMobil | $640.51B | Integrated Oil & Gas | Irving, Texas | 2.63% |
-| 2 | CVX | Chevron Corporation | $394.93B | Integrated Oil & Gas | Houston, Texas | 3.56% |
-| 3 | COP | ConocoPhillips | $156.37B | Oil & Gas Exploration & Production | Houston, Texas | 2.59% |
-| 4 | MPC | Marathon Petroleum | $102.51B | Oil & Gas Refining & Marketing | Findlay, Ohio | 1.10% |
-| 5 | VLO | Valero Energy | $101.10B | Oil & Gas Refining & Marketing | San Antonio, Texas | 1.38% |
-| 6 | PSX | Phillips 66 | $97.52B | Oil & Gas Refining & Marketing | Houston, Texas | 2.12% |
-| 7 | WMB | Williams Companies | $90.06B | Oil & Gas Storage & Transportation | Tulsa, Oklahoma | 2.82% |
-| 8 | SLB | Schlumberger | $84.83B | Oil & Gas Equipment & Services | Houston, Texas | 2.15% |
-| 9 | EOG | EOG Resources | $75.30B | Oil & Gas Exploration & Production | Houston, Texas | 2.82% |
-| 10 | KMI | Kinder Morgan | $70.09B | Oil & Gas Storage & Transportation | Houston, Texas | 3.74% |
-| 11 | BKR | Baker Hughes | $61.90B | Oil & Gas Equipment & Services | Houston, Texas | 1.48% |
-| 12 | TRGP | Targa Resources | $61.82B | Oil & Gas Storage & Transportation | Houston, Texas | 1.73% |
-| 13 | OKE | Oneok | $59.76B | Oil & Gas Storage & Transportation | Tulsa, Oklahoma | 4.52% |
-| 14 | OXY | Occidental Petroleum | $58.92B | Oil & Gas Exploration & Production | Houston, Texas | 1.91% |
-| 15 | FANG | Diamondback Energy | $55.44B | Oil & Gas Exploration & Production | Midland, Texas | 2.19% |
-| 16 | DVN | Devon Energy | $51.96B | Oil & Gas Exploration & Production | Oklahoma City, Oklahoma | 2.72% |
-| 17 | EQT | EQT Corporation | $34.22B | Oil & Gas Exploration & Production | Pittsburgh, Pennsylvania | 1.21% |
-| 18 | HAL | Halliburton | $30.20B | Oil & Gas Equipment & Services | Houston, Texas | 1.92% |
-| 19 | TPL | Texas Pacific Land Corporation | $24.98B | Oil & Gas Exploration & Production | Dallas, Texas | 0.65% |
-| 20 | EXE | Expand Energy | $22.83B | Oil & Gas Exploration & Production | Oklahoma City, Oklahoma | 2.35% |
-| 21 | APA | APA Corporation | $14.89B | Oil & Gas Exploration & Production | Houston, Texas | 2.36% |
+| # | Símbolo | Empresa | Subindústria | Sedes |
+|---|---------|---------|--------------|-------|
+| 1 | APA | APA Corporation | Oil & Gas Exploration & Production | Houston, Texas |
+| 2 | BKR | Baker Hughes | Oil & Gas Equipment & Services | Houston, Texas |
+| 3 | CVX | Chevron Corporation | Integrated Oil & Gas | Houston, Texas |
+| 4 | COP | ConocoPhillips | Oil & Gas Exploration & Production | Houston, Texas |
+| 5 | DVN | Devon Energy | Oil & Gas Exploration & Production | Oklahoma City, Oklahoma |
+| 6 | FANG | Diamondback Energy | Oil & Gas Exploration & Production | Midland, Texas |
+| 7 | EOG | EOG Resources | Oil & Gas Exploration & Production | Houston, Texas |
+| 8 | EQT | EQT Corporation | Oil & Gas Exploration & Production | Pittsburgh, Pennsylvania |
+| 9 | EXE | Expand Energy | Oil & Gas Exploration & Production | Oklahoma City, Oklahoma |
+| 10 | XOM | ExxonMobil | Integrated Oil & Gas | Irving, Texas |
+| 11 | HAL | Halliburton | Oil & Gas Equipment & Services | Houston, Texas |
+| 12 | KMI | Kinder Morgan | Oil & Gas Storage & Transportation | Houston, Texas |
+| 13 | MPC | Marathon Petroleum | Oil & Gas Refining & Marketing | Findlay, Ohio |
+| 14 | OXY | Occidental Petroleum | Oil & Gas Exploration & Production | Houston, Texas |
+| 15 | OKE | Oneok | Oil & Gas Storage & Transportation | Tulsa, Oklahoma |
+| 16 | PSX | Phillips 66 | Oil & Gas Refining & Marketing | Houston, Texas |
+| 17 | SLB | Schlumberger | Oil & Gas Equipment & Services | Houston, Texas |
+| 18 | TRGP | Targa Resources | Oil & Gas Storage & Transportation | Houston, Texas |
+| 19 | TPL | Texas Pacific Land Corporation | Oil & Gas Exploration & Production | Dallas, Texas |
+| 20 | VLO | Valero Energy | Oil & Gas Refining & Marketing | San Antonio, Texas |
+| 21 | WMB | Williams Companies | Oil & Gas Storage & Transportation | Tulsa, Oklahoma |

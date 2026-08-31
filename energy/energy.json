@@ -1,7 +1,7 @@
 {
   "sector": "Energy",
   "count": 21,
-  "generatedAt": "2026-08-27",
+  "generatedAt": "2026-08-31",
   "source": "https://raw.githubusercontent.com/datasets/s-and-p-500-companies/main/data/constituents.csv",
   "companies": [
     {
@@ -12,11 +12,7 @@
       "headquarters": "Houston, Texas",
       "dateAdded": "1997-07-28",
       "cik": 1841666,
-      "founded": "1954",
-      "marketCap": 14893442048,
-      "marketCapClassification": "Large",
-      "dividendYield": 2.36,
-      "hasDividend": "Sim"
+      "founded": "1954"
     },
     {
       "symbol": "BKR",
@@ -26,11 +22,7 @@
       "headquarters": "Houston, Texas",
       "dateAdded": "2017-07-07",
       "cik": 1701605,
-      "founded": "2017",
-      "marketCap": 61898190848,
-      "marketCapClassification": "Large",
-      "dividendYield": 1.48,
-      "hasDividend": "Sim"
+      "founded": "2017"
     },
     {
       "symbol": "CVX",
@@ -40,11 +32,7 @@
       "headquarters": "Houston, Texas",
       "dateAdded": "1957-03-04",
       "cik": 93410,
-      "founded": "1879",
-      "marketCap": 394929602560,
-      "marketCapClassification": "Mega",
-      "dividendYield": 3.56,
-      "hasDividend": "Sim"
+      "founded": "1879"
     },
     {
       "symbol": "COP",
@@ -54,11 +42,7 @@
       "headquarters": "Houston, Texas",
       "dateAdded": "1957-03-04",
       "cik": 1163165,
-      "founded": "2002",
-      "marketCap": 156366094336,
-      "marketCapClassification": "Large",
-      "dividendYield": 2.59,
-      "hasDividend": "Sim"
+      "founded": "2002"
     },
     {
       "symbol": "DVN",
@@ -68,11 +52,7 @@
       "headquarters": "Oklahoma City, Oklahoma",
       "dateAdded": "2000-08-30",
       "cik": 1090012,
-      "founded": "1971",
-      "marketCap": 51958501376,
-      "marketCapClassification": "Large",
-      "dividendYield": 2.72,
-      "hasDividend": "Sim"
+      "founded": "1971"
     },
     {
       "symbol": "FANG",
@@ -82,11 +62,7 @@
       "headquarters": "Midland, Texas",
       "dateAdded": "2018-12-03",
       "cik": 1539838,
-      "founded": "2007",
-      "marketCap": 55441117184,
-      "marketCapClassification": "Large",
-      "dividendYield": 2.19,
-      "hasDividend": "Sim"
+      "founded": "2007"
     },
     {
       "symbol": "EOG",
@@ -96,11 +72,7 @@
       "headquarters": "Houston, Texas",
       "dateAdded": "2000-11-02",
       "cik": 821189,
-      "founded": "1999",
-      "marketCap": 75296169984,
-      "marketCapClassification": "Large",
-      "dividendYield": 2.82,
-      "hasDividend": "Sim"
+      "founded": "1999"
     },
     {
       "symbol": "EQT",
@@ -110,11 +82,7 @@
       "headquarters": "Pittsburgh, Pennsylvania",
       "dateAdded": "2022-10-03",
       "cik": 33213,
-      "founded": "1888",
-      "marketCap": 34221981696,
-      "marketCapClassification": "Large",
-      "dividendYield": 1.21,
-      "hasDividend": "Sim"
+      "founded": "1888"
     },
     {
       "symbol": "EXE",
@@ -124,11 +92,7 @@
       "headquarters": "Oklahoma City, Oklahoma",
       "dateAdded": "2025-03-24",
       "cik": 895126,
-      "founded": "1989",
-      "marketCap": 22830905344,
-      "marketCapClassification": "Large",
-      "dividendYield": 2.35,
-      "hasDividend": "Sim"
+      "founded": "1989"
     },
     {
       "symbol": "XOM",
@@ -138,11 +102,7 @@
       "headquarters": "Irving, Texas",
       "dateAdded": "1957-03-04",
       "cik": 2115436,
-      "founded": "1999",
-      "marketCap": 640512557056,
-      "marketCapClassification": "Mega",
-      "dividendYield": 2.63,
-      "hasDividend": "Sim"
+      "founded": "1999"
     },
     {
       "symbol": "HAL",
@@ -152,11 +112,7 @@
       "headquarters": "Houston, Texas",
       "dateAdded": "1957-03-04",
       "cik": 45012,
-      "founded": "1919",
-      "marketCap": 30196891648,
-      "marketCapClassification": "Large",
-      "dividendYield": 1.92,
-      "hasDividend": "Sim"
+      "founded": "1919"
     },
     {
       "symbol": "KMI",
@@ -166,11 +122,7 @@
       "headquarters": "Houston, Texas",
       "dateAdded": "2012-05-25",
       "cik": 1506307,
-      "founded": "1997",
-      "marketCap": 70088597504,
-      "marketCapClassification": "Large",
-      "dividendYield": 3.74,
-      "hasDividend": "Sim"
+      "founded": "1997"
     },
     {
       "symbol": "MPC",
@@ -180,11 +132,7 @@
       "headquarters": "Findlay, Ohio",
       "dateAdded": "2011-07-01",
       "cik": 1510295,
-      "founded": "2009 (1887)",
-      "marketCap": 102510870528,
-      "marketCapClassification": "Large",
-      "dividendYield": 1.1,
-      "hasDividend": "Sim"
+      "founded": "2009 (1887)"
     },
     {
       "symbol": "OXY",
@@ -194,11 +142,7 @@
       "headquarters": "Houston, Texas",
       "dateAdded": "1957-03-04",
       "cik": 797468,
-      "founded": "1920",
-      "marketCap": 58923626496,
-      "marketCapClassification": "Large",
-      "dividendYield": 1.91,
-      "hasDividend": "Sim"
+      "founded": "1920"
     },
     {
       "symbol": "OKE",
@@ -208,11 +152,7 @@
       "headquarters": "Tulsa, Oklahoma",
       "dateAdded": "2010-03-15",
       "cik": 1039684,
-      "founded": "1906",
-      "marketCap": 59755892736,
-      "marketCapClassification": "Large",
-      "dividendYield": 4.52,
-      "hasDividend": "Sim"
+      "founded": "1906"
     },
     {
       "symbol": "PSX",
@@ -222,11 +162,7 @@
       "headquarters": "Houston, Texas",
       "dateAdded": "2012-05-01",
       "cik": 1534701,
-      "founded": "2012 (1917)",
-      "marketCap": 97515413504,
-      "marketCapClassification": "Large",
-      "dividendYield": 2.12,
-      "hasDividend": "Sim"
+      "founded": "2012 (1917)"
     },
     {
       "symbol": "SLB",
@@ -236,11 +172,7 @@
       "headquarters": "Houston, Texas",
       "dateAdded": "1957-03-04",
       "cik": 87347,
-      "founded": "1926",
-      "marketCap": 84826202112,
-      "marketCapClassification": "Large",
-      "dividendYield": 2.15,
-      "hasDividend": "Sim"
+      "founded": "1926"
     },
     {
       "symbol": "TRGP",
@@ -250,11 +182,7 @@
       "headquarters": "Houston, Texas",
       "dateAdded": "2022-10-12",
       "cik": 1389170,
-      "founded": "2005",
-      "marketCap": 61821534208,
-      "marketCapClassification": "Large",
-      "dividendYield": 1.73,
-      "hasDividend": "Sim"
+      "founded": "2005"
     },
     {
       "symbol": "TPL",
@@ -264,11 +192,7 @@
       "headquarters": "Dallas, Texas",
       "dateAdded": "2024-11-26",
       "cik": 1811074,
-      "founded": "1888",
-      "marketCap": 24983906304,
-      "marketCapClassification": "Large",
-      "dividendYield": 0.65,
-      "hasDividend": "Sim"
+      "founded": "1888"
     },
     {
       "symbol": "VLO",
@@ -278,11 +202,7 @@
       "headquarters": "San Antonio, Texas",
       "dateAdded": "2002-12-20",
       "cik": 1035002,
-      "founded": "1980",
-      "marketCap": 101104279552,
-      "marketCapClassification": "Large",
-      "dividendYield": 1.38,
-      "hasDividend": "Sim"
+      "founded": "1980"
     },
     {
       "symbol": "WMB",
@@ -292,11 +212,7 @@
       "headquarters": "Tulsa, Oklahoma",
       "dateAdded": "1975-03-31",
       "cik": 107263,
-      "founded": "1908",
-      "marketCap": 90055704576,
-      "marketCapClassification": "Large",
-      "dividendYield": 2.82,
-      "hasDividend": "Sim"
+      "founded": "1908"
     }
   ]
 }

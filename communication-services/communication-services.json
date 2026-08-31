@@ -1,7 +1,7 @@
 {
   "sector": "Communication Services",
   "count": 24,
-  "generatedAt": "2026-08-27",
+  "generatedAt": "2026-08-31",
   "source": "https://raw.githubusercontent.com/datasets/s-and-p-500-companies/main/data/constituents.csv",
   "companies": [
     {
@@ -12,11 +12,7 @@
       "headquarters": "Mountain View, California",
       "dateAdded": "2006-04-03",
       "cik": 1652044,
-      "founded": "1998",
-      "marketCap": 4242931187712,
-      "marketCapClassification": "Mega",
-      "dividendYield": 0.26,
-      "hasDividend": "Sim"
+      "founded": "1998"
     },
     {
       "symbol": "GOOG",
@@ -26,11 +22,7 @@
       "headquarters": "Mountain View, California",
       "dateAdded": "2014-04-03",
       "cik": 1652044,
-      "founded": "1998",
-      "marketCap": 4199603240960,
-      "marketCapClassification": "Mega",
-      "dividendYield": 0.26,
-      "hasDividend": "Sim"
+      "founded": "1998"
     },
     {
       "symbol": "APP",
@@ -40,11 +32,7 @@
       "headquarters": "Palo Alto, California",
       "dateAdded": "2025-09-22",
       "cik": 1751008,
-      "founded": "2012",
-      "marketCap": 107171422208,
-      "marketCapClassification": "Large",
-      "dividendYield": null,
-      "hasDividend": "Não"
+      "founded": "2012"
     },
     {
       "symbol": "T",
@@ -54,11 +42,7 @@
       "headquarters": "Dallas, Texas",
       "dateAdded": "1983-11-30",
       "cik": 732717,
-      "founded": "1983 (1885)",
-      "marketCap": 177716625408,
-      "marketCapClassification": "Large",
-      "dividendYield": 4.36,
-      "hasDividend": "Sim"
+      "founded": "1983 (1885)"
     },
     {
       "symbol": "CHTR",
@@ -68,11 +52,7 @@
       "headquarters": "Stamford, Connecticut",
       "dateAdded": "2016-09-08",
       "cik": 1091667,
-      "founded": "1993",
-      "marketCap": 20767191040,
-      "marketCapClassification": "Large",
-      "dividendYield": null,
-      "hasDividend": "Não"
+      "founded": "1993"
     },
     {
       "symbol": "CMCSA",
@@ -82,11 +62,7 @@
       "headquarters": "Philadelphia, Pennsylvania",
       "dateAdded": "2002-11-19",
       "cik": 1166691,
-      "founded": "1963",
-      "marketCap": 95689342976,
-      "marketCapClassification": "Large",
-      "dividendYield": 5,
-      "hasDividend": "Sim"
+      "founded": "1963"
     },
     {
       "symbol": "ECHO",
@@ -96,11 +72,7 @@
       "headquarters": "Englewood, Colorado",
       "dateAdded": "2026-03-23",
       "cik": 1415404,
-      "founded": "2008",
-      "marketCap": 25137614848,
-      "marketCapClassification": "Large",
-      "dividendYield": null,
-      "hasDividend": "Não"
+      "founded": "2008"
     },
     {
       "symbol": "FOXA",
@@ -110,11 +82,7 @@
       "headquarters": "New York City, New York",
       "dateAdded": "2019-03-19",
       "cik": 1754301,
-      "founded": "2019",
-      "marketCap": 28930301952,
-      "marketCapClassification": "Large",
-      "dividendYield": 0.83,
-      "hasDividend": "Sim"
+      "founded": "2019"
     },
     {
       "symbol": "FOX",
@@ -124,11 +92,7 @@
       "headquarters": "New York City, New York",
       "dateAdded": "2019-03-19",
       "cik": 1754301,
-      "founded": "2019",
-      "marketCap": 25873723392,
-      "marketCapClassification": "Large",
-      "dividendYield": 0.93,
-      "hasDividend": "Sim"
+      "founded": "2019"
     },
     {
       "symbol": "LYV",
@@ -138,11 +102,7 @@
       "headquarters": "Beverly Hills, California",
       "dateAdded": "2019-12-23",
       "cik": 1335258,
-      "founded": "2010",
-      "marketCap": 42039873536,
-      "marketCapClassification": "Large",
-      "dividendYield": null,
-      "hasDividend": "Não"
+      "founded": "2010"
     },
     {
       "symbol": "META",
@@ -152,11 +112,7 @@
       "headquarters": "Menlo Park, California",
       "dateAdded": "2013-12-23",
       "cik": 1326801,
-      "founded": "2004",
-      "marketCap": 1464051826688,
-      "marketCapClassification": "Mega",
-      "dividendYield": 0.37,
-      "hasDividend": "Sim"
+      "founded": "2004"
     },
     {
       "symbol": "NFLX",
@@ -166,11 +122,7 @@
       "headquarters": "Los Gatos, California",
       "dateAdded": "2010-12-20",
       "cik": 1065280,
-      "founded": "1997",
-      "marketCap": 339819102208,
-      "marketCapClassification": "Mega",
-      "dividendYield": null,
-      "hasDividend": "Não"
+      "founded": "1997"
     },
     {
       "symbol": "NWSA",
@@ -180,11 +132,7 @@
       "headquarters": "New York City, New York",
       "dateAdded": "2013-08-01",
       "cik": 1564708,
-      "founded": "2013 (News Corporation 1980)",
-      "marketCap": 16633157632,
-      "marketCapClassification": "Large",
-      "dividendYield": 0.64,
-      "hasDividend": "Sim"
+      "founded": "2013 (News Corporation 1980)"
     },
     {
       "symbol": "NWS",
@@ -194,11 +142,7 @@
       "headquarters": "New York City, New York",
       "dateAdded": "2015-09-18",
       "cik": 1564708,
-      "founded": "2013 (News Corporation 1980)",
-      "marketCap": 18709280768,
-      "marketCapClassification": "Large",
-      "dividendYield": 0.57,
-      "hasDividend": "Sim"
+      "founded": "2013 (News Corporation 1980)"
     },
     {
       "symbol": "OMC",
@@ -208,11 +152,7 @@
       "headquarters": "New York City, New York",
       "dateAdded": "1997-12-31",
       "cik": 29989,
-      "founded": "1986",
-      "marketCap": 24191825920,
-      "marketCapClassification": "Large",
-      "dividendYield": 3.64,
-      "hasDividend": "Sim"
+      "founded": "1986"
     },
     {
       "symbol": "PSKY",
@@ -222,11 +162,7 @@
       "headquarters": "Los Angeles, California",
       "dateAdded": "1994-09-30",
       "cik": 2041610,
-      "founded": "2025 (Paramount Pictures 1912)",
-      "marketCap": 12156281856,
-      "marketCapClassification": "Large",
-      "dividendYield": 1.85,
-      "hasDividend": "Sim"
+      "founded": "2025 (Paramount Pictures 1912)"
     },
     {
       "symbol": "RDDT",
@@ -236,11 +172,7 @@
       "headquarters": "San Francisco, California",
       "dateAdded": "2026-08-18",
       "cik": 1713445,
-      "founded": "2005",
-      "marketCap": 29605013504,
-      "marketCapClassification": "Large",
-      "dividendYield": null,
-      "hasDividend": "Não"
+      "founded": "2005"
     },
     {
       "symbol": "TMUS",
@@ -250,11 +182,7 @@
       "headquarters": "Bellevue, Washington",
       "dateAdded": "2019-07-15",
       "cik": 1283699,
-      "founded": "1994",
-      "marketCap": 194132099072,
-      "marketCapClassification": "Large",
-      "dividendYield": 2.27,
-      "hasDividend": "Sim"
+      "founded": "1994"
     },
     {
       "symbol": "TTWO",
@@ -264,11 +192,7 @@
       "headquarters": "New York City, New York",
       "dateAdded": "2018-03-19",
       "cik": 946581,
-      "founded": "1993",
-      "marketCap": 43650584576,
-      "marketCapClassification": "Large",
-      "dividendYield": null,
-      "hasDividend": "Não"
+      "founded": "1993"
     },
     {
       "symbol": "TKO",
@@ -278,11 +202,7 @@
       "headquarters": "New York City, New York",
       "dateAdded": "2025-03-24",
       "cik": 1973266,
-      "founded": "2023",
-      "marketCap": 34929725440,
-      "marketCapClassification": "Large",
-      "dividendYield": 1.69,
-      "hasDividend": "Sim"
+      "founded": "2023"
     },
     {
       "symbol": "TTD",
@@ -292,11 +212,7 @@
       "headquarters": "Ventura, California",
       "dateAdded": "2025-07-18",
       "cik": 1671933,
-      "founded": "2009",
-      "marketCap": 6364527104,
-      "marketCapClassification": "Mid",
-      "dividendYield": null,
-      "hasDividend": "Não"
+      "founded": "2009"
     },
     {
       "symbol": "VZ",
@@ -306,11 +222,7 @@
       "headquarters": "New York City, New York",
       "dateAdded": "1983-11-30",
       "cik": 732712,
-      "founded": "1983 (1877)",
-      "marketCap": 207634890752,
-      "marketCapClassification": "Mega",
-      "dividendYield": 5.64,
-      "hasDividend": "Sim"
+      "founded": "1983 (1877)"
     },
     {
       "symbol": "DIS",
@@ -320,11 +232,7 @@
       "headquarters": "Burbank, California",
       "dateAdded": "1976-06-30",
       "cik": 1744489,
-      "founded": "1923",
-      "marketCap": 185981435904,
-      "marketCapClassification": "Large",
-      "dividendYield": 1.4,
-      "hasDividend": "Sim"
+      "founded": "1923"
     },
     {
       "symbol": "WBD",
@@ -334,11 +242,7 @@
       "headquarters": "New York City, New York",
       "dateAdded": "2022-04-11",
       "cik": 1437107,
-      "founded": "2022 (Warner Bros. 1923)",
-      "marketCap": 72092712960,
-      "marketCapClassification": "Large",
-      "dividendYield": null,
-      "hasDividend": "Não"
+      "founded": "2022 (Warner Bros. 1923)"
     }
   ]
 }

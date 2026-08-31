@@ -44,7 +44,7 @@ Cada pasta de setor contém:
 
 - **Origem**: [datasets/s-and-p-500-companies](https://raw.githubusercontent.com/datasets/s-and-p-500-companies/main/data/constituents.csv) no GitHub
 - **Classificação**: GICS (Global Industry Classification Standard)
-- **Atualização**: 2026-08-27
+- **Atualização**: 2026-08-31
 
 ## Uso
 
@@ -79,4 +79,4 @@ Dados públicos do S&P 500. Consulte a [fonte original](https://github.com/datas
 
 ---
 
-*Gerado automaticamente — Última atualização: 2026-08-27*
+*Gerado automaticamente — Última atualização: 2026-08-31*

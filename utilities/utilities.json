@@ -1,7 +1,7 @@
 {
   "sector": "Utilities",
   "count": 31,
-  "generatedAt": "2026-08-27",
+  "generatedAt": "2026-08-31",
   "source": "https://raw.githubusercontent.com/datasets/s-and-p-500-companies/main/data/constituents.csv",
   "companies": [
     {
@@ -12,11 +12,7 @@
       "headquarters": "Arlington, Virginia",
       "dateAdded": "1998-10-02",
       "cik": 874761,
-      "founded": "1981",
-      "marketCap": 10501817344,
-      "marketCapClassification": "Large",
-      "dividendYield": 4.77,
-      "hasDividend": "Sim"
+      "founded": "1981"
     },
     {
       "symbol": "LNT",
@@ -26,11 +22,7 @@
       "headquarters": "Madison, Wisconsin",
       "dateAdded": "2016-07-01",
       "cik": 352541,
-      "founded": "1917",
-      "marketCap": 17608026112,
-      "marketCapClassification": "Large",
-      "dividendYield": 3.14,
-      "hasDividend": "Sim"
+      "founded": "1917"
     },
     {
       "symbol": "AEE",
@@ -40,11 +32,7 @@
       "headquarters": "St. Louis, Missouri",
       "dateAdded": "1991-09-19",
       "cik": 1002910,
-      "founded": "1902",
-      "marketCap": 29338464256,
-      "marketCapClassification": "Large",
-      "dividendYield": 2.78,
-      "hasDividend": "Sim"
+      "founded": "1902"
     },
     {
       "symbol": "AEP",
@@ -54,11 +42,7 @@
       "headquarters": "Columbus, Ohio",
       "dateAdded": "1957-03-04",
       "cik": 4904,
-      "founded": "1906",
-      "marketCap": 66435534848,
-      "marketCapClassification": "Large",
-      "dividendYield": 3.1,
-      "hasDividend": "Sim"
+      "founded": "1906"
     },
     {
       "symbol": "AWK",
@@ -68,11 +52,7 @@
       "headquarters": "Camden, New Jersey",
       "dateAdded": "2016-03-04",
       "cik": 1410636,
-      "founded": "1886",
-      "marketCap": 27392802816,
-      "marketCapClassification": "Large",
-      "dividendYield": 2.62,
-      "hasDividend": "Sim"
+      "founded": "1886"
     },
     {
       "symbol": "ATO",
@@ -82,11 +62,7 @@
       "headquarters": "Dallas, Texas",
       "dateAdded": "2019-02-15",
       "cik": 731802,
-      "founded": "1906",
-      "marketCap": 28173772800,
-      "marketCapClassification": "Large",
-      "dividendYield": 2.39,
-      "hasDividend": "Sim"
+      "founded": "1906"
     },
     {
       "symbol": "CNP",
@@ -96,11 +72,7 @@
       "headquarters": "Houston, Texas",
       "dateAdded": "1985-07-31",
       "cik": 1130310,
-      "founded": "1882",
-      "marketCap": 25946990592,
-      "marketCapClassification": "Large",
-      "dividendYield": 2.44,
-      "hasDividend": "Sim"
+      "founded": "1882"
     },
     {
       "symbol": "CMS",
@@ -110,11 +82,7 @@
       "headquarters": "Jackson, Michigan",
       "dateAdded": "1957-03-04",
       "cik": 811156,
-      "founded": "1886",
-      "marketCap": 21327949824,
-      "marketCapClassification": "Large",
-      "dividendYield": 3.29,
-      "hasDividend": "Sim"
+      "founded": "1886"
     },
     {
       "symbol": "ED",
@@ -124,11 +92,7 @@
       "headquarters": "New York City, New York",
       "dateAdded": "1957-03-04",
       "cik": 1047862,
-      "founded": "1823",
-      "marketCap": 39649255424,
-      "marketCapClassification": "Large",
-      "dividendYield": 3.29,
-      "hasDividend": "Sim"
+      "founded": "1823"
     },
     {
       "symbol": "CEG",
@@ -138,11 +102,7 @@
       "headquarters": "Baltimore, Maryland",
       "dateAdded": "2022-02-02",
       "cik": 1868275,
-      "founded": "1999",
-      "marketCap": 98068742144,
-      "marketCapClassification": "Large",
-      "dividendYield": 0.6,
-      "hasDividend": "Sim"
+      "founded": "1999"
     },
     {
       "symbol": "D",
@@ -152,11 +112,7 @@
       "headquarters": "Richmond, Virginia",
       "dateAdded": "2016-11-30",
       "cik": 715957,
-      "founded": "1983",
-      "marketCap": 57468223488,
-      "marketCapClassification": "Large",
-      "dividendYield": 4.02,
-      "hasDividend": "Sim"
+      "founded": "1983"
     },
     {
       "symbol": "DTE",
@@ -166,11 +122,7 @@
       "headquarters": "Detroit, Michigan",
       "dateAdded": "1957-03-04",
       "cik": 936340,
-      "founded": "1995",
-      "marketCap": 28173043712,
-      "marketCapClassification": "Large",
-      "dividendYield": 3.42,
-      "hasDividend": "Sim"
+      "founded": "1995"
     },
     {
       "symbol": "DUK",
@@ -180,11 +132,7 @@
       "headquarters": "Charlotte, North Carolina",
       "dateAdded": "1976-06-30",
       "cik": 1326160,
-      "founded": "1904",
-      "marketCap": 93490192384,
-      "marketCapClassification": "Large",
-      "dividendYield": 3.59,
-      "hasDividend": "Sim"
+      "founded": "1904"
     },
     {
       "symbol": "EIX",
@@ -194,11 +142,7 @@
       "headquarters": "Rosemead, California",
       "dateAdded": "1957-03-04",
       "cik": 827052,
-      "founded": "1886",
-      "marketCap": 26871560192,
-      "marketCapClassification": "Large",
-      "dividendYield": 4.76,
-      "hasDividend": "Sim"
+      "founded": "1886"
     },
     {
       "symbol": "ETR",
@@ -208,11 +152,7 @@
       "headquarters": "New Orleans, Louisiana",
       "dateAdded": "1957-03-04",
       "cik": 65984,
-      "founded": "1913",
-      "marketCap": 49224953856,
-      "marketCapClassification": "Large",
-      "dividendYield": 2.4,
-      "hasDividend": "Sim"
+      "founded": "1913"
     },
     {
       "symbol": "EVRG",
@@ -222,11 +162,7 @@
       "headquarters": "Kansas City, Missouri",
       "dateAdded": "2018-06-05",
       "cik": 1711269,
-      "founded": "1909",
-      "marketCap": 18583713792,
-      "marketCapClassification": "Large",
-      "dividendYield": 3.38,
-      "hasDividend": "Sim"
+      "founded": "1909"
     },
     {
       "symbol": "ES",
@@ -236,11 +172,7 @@
       "headquarters": "Hartford, Connecticut",
       "dateAdded": "2009-07-24",
       "cik": 72741,
-      "founded": "1966",
-      "marketCap": 26674223104,
-      "marketCapClassification": "Large",
-      "dividendYield": 4.44,
-      "hasDividend": "Sim"
+      "founded": "1966"
     },
     {
       "symbol": "EXC",
@@ -250,11 +182,7 @@
       "headquarters": "Chicago, Illinois",
       "dateAdded": "1957-03-04",
       "cik": 1109357,
-      "founded": "2000",
-      "marketCap": 45114822656,
-      "marketCapClassification": "Large",
-      "dividendYield": 3.82,
-      "hasDividend": "Sim"
+      "founded": "2000"
     },
     {
       "symbol": "FE",
@@ -264,11 +192,7 @@
       "headquarters": "Akron, Ohio",
       "dateAdded": "1997-11-28",
       "cik": 1031296,
-      "founded": "1997",
-      "marketCap": 26519068672,
-      "marketCapClassification": "Large",
-      "dividendYield": 4.02,
-      "hasDividend": "Sim"
+      "founded": "1997"
     },
     {
       "symbol": "NEE",
@@ -278,11 +202,7 @@
       "headquarters": "Juno Beach, Florida",
       "dateAdded": "1976-06-30",
       "cik": 753308,
-      "founded": "1984 (1925)",
-      "marketCap": 169965518848,
-      "marketCapClassification": "Large",
-      "dividendYield": 2.99,
-      "hasDividend": "Sim"
+      "founded": "1984 (1925)"
     },
     {
       "symbol": "NI",
@@ -292,11 +212,7 @@
       "headquarters": "Merrillville, Indiana",
       "dateAdded": "2000-11-02",
       "cik": 1111711,
-      "founded": "1912",
-      "marketCap": 19434174464,
-      "marketCapClassification": "Large",
-      "dividendYield": 2.93,
-      "hasDividend": "Sim"
+      "founded": "1912"
     },
     {
       "symbol": "NRG",
@@ -306,11 +222,7 @@
       "headquarters": "Houston, Texas",
       "dateAdded": "2010-01-29",
       "cik": 1013871,
-      "founded": "1992",
-      "marketCap": 23362267136,
-      "marketCapClassification": "Large",
-      "dividendYield": 1.66,
-      "hasDividend": "Sim"
+      "founded": "1992"
     },
     {
       "symbol": "PCG",
@@ -320,11 +232,7 @@
       "headquarters": "Oakland, California",
       "dateAdded": "2022-10-03",
       "cik": 1004980,
-      "founded": "1905",
-      "marketCap": 36249858048,
-      "marketCapClassification": "Large",
-      "dividendYield": 1.1,
-      "hasDividend": "Sim"
+      "founded": "1905"
     },
     {
       "symbol": "PNW",
@@ -334,11 +242,7 @@
       "headquarters": "Phoenix, Arizona",
       "dateAdded": "1999-10-04",
       "cik": 764622,
-      "founded": "1985",
-      "marketCap": 11794309120,
-      "marketCapClassification": "Large",
-      "dividendYield": 3.69,
-      "hasDividend": "Sim"
+      "founded": "1985"
     },
     {
       "symbol": "PPL",
@@ -348,11 +252,7 @@
       "headquarters": "Allentown, Pennsylvania",
       "dateAdded": "2001-10-01",
       "cik": 922224,
-      "founded": "1920",
-      "marketCap": 25699407872,
-      "marketCapClassification": "Large",
-      "dividendYield": 3.26,
-      "hasDividend": "Sim"
+      "founded": "1920"
     },
     {
       "symbol": "PEG",
@@ -362,11 +262,7 @@
       "headquarters": "Newark, New Jersey",
       "dateAdded": "1957-03-04",
       "cik": 788784,
-      "founded": "1903",
-      "marketCap": 36324851712,
-      "marketCapClassification": "Large",
-      "dividendYield": 3.65,
-      "hasDividend": "Sim"
+      "founded": "1903"
     },
     {
       "symbol": "SRE",
@@ -376,11 +272,7 @@
       "headquarters": "San Diego, California",
       "dateAdded": "2017-03-17",
       "cik": 1032208,
-      "founded": "1998",
-      "marketCap": 54842626048,
-      "marketCapClassification": "Large",
-      "dividendYield": 3.1,
-      "hasDividend": "Sim"
+      "founded": "1998"
     },
     {
       "symbol": "SO",
@@ -390,11 +282,7 @@
       "headquarters": "Atlanta, Georgia",
       "dateAdded": "1957-03-04",
       "cik": 92122,
-      "founded": "1945",
-      "marketCap": 101312471040,
-      "marketCapClassification": "Large",
-      "dividendYield": 3.41,
-      "hasDividend": "Sim"
+      "founded": "1945"
     },
     {
       "symbol": "VST",
@@ -404,11 +292,7 @@
       "headquarters": "Irving, Texas",
       "dateAdded": "2024-05-08",
       "cik": 1692819,
-      "founded": "2016",
-      "marketCap": 45872943104,
-      "marketCapClassification": "Large",
-      "dividendYield": 0.66,
-      "hasDividend": "Sim"
+      "founded": "2016"
     },
     {
       "symbol": "WEC",
@@ -418,11 +302,7 @@
       "headquarters": "Milwaukee, Wisconsin",
       "dateAdded": "2008-10-31",
       "cik": 783325,
-      "founded": "1896",
-      "marketCap": 34523742208,
-      "marketCapClassification": "Large",
-      "dividendYield": 3.58,
-      "hasDividend": "Sim"
+      "founded": "1896"
     },
     {
       "symbol": "XEL",
@@ -432,11 +312,7 @@
       "headquarters": "Minneapolis, Minnesota",
       "dateAdded": "1957-03-04",
       "cik": 72903,
-      "founded": "1909",
-      "marketCap": 47519051776,
-      "marketCapClassification": "Large",
-      "dividendYield": 3.07,
-      "hasDividend": "Sim"
+      "founded": "1909"
     }
   ]
 }

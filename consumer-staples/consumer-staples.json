@@ -1,7 +1,7 @@
 {
   "sector": "Consumer Staples",
   "count": 34,
-  "generatedAt": "2026-08-27",
+  "generatedAt": "2026-08-31",
   "source": "https://raw.githubusercontent.com/datasets/s-and-p-500-companies/main/data/constituents.csv",
   "companies": [
     {
@@ -12,11 +12,7 @@
       "headquarters": "Richmond, Virginia",
       "dateAdded": "1957-03-04",
       "cik": 764180,
-      "founded": "1985",
-      "marketCap": 114168733696,
-      "marketCapClassification": "Large",
-      "dividendYield": 6.27,
-      "hasDividend": "Sim"
+      "founded": "1985"
     },
     {
       "symbol": "ADM",
@@ -26,11 +22,7 @@
       "headquarters": "Chicago, Illinois",
       "dateAdded": "1957-03-04",
       "cik": 7084,
-      "founded": "1902",
-      "marketCap": 39279706112,
-      "marketCapClassification": "Large",
-      "dividendYield": 2.63,
-      "hasDividend": "Sim"
+      "founded": "1902"
     },
     {
       "symbol": "BF.B",
@@ -40,11 +32,7 @@
       "headquarters": "Louisville, Kentucky",
       "dateAdded": "1982-10-31",
       "cik": 14693,
-      "founded": "1870",
-      "marketCap": null,
-      "marketCapClassification": "Unknown",
-      "dividendYield": null,
-      "hasDividend": "Não"
+      "founded": "1870"
     },
     {
       "symbol": "BG",
@@ -54,11 +42,7 @@
       "headquarters": "Chesterfield, Missouri",
       "dateAdded": "2023-03-15",
       "cik": 1996862,
-      "founded": "1818",
-      "marketCap": 22168625152,
-      "marketCapClassification": "Large",
-      "dividendYield": 2.58,
-      "hasDividend": "Sim"
+      "founded": "1818"
     },
     {
       "symbol": "CASY",
@@ -68,11 +52,7 @@
       "headquarters": "Ankeny, Iowa",
       "dateAdded": "2026-04-09",
       "cik": 726958,
-      "founded": "1967",
-      "marketCap": 27964241920,
-      "marketCapClassification": "Large",
-      "dividendYield": 0.32,
-      "hasDividend": "Sim"
+      "founded": "1967"
     },
     {
       "symbol": "CHD",
@@ -82,11 +62,7 @@
       "headquarters": "Ewing, New Jersey",
       "dateAdded": "2015-12-29",
       "cik": 313927,
-      "founded": "1847",
-      "marketCap": 24083312640,
-      "marketCapClassification": "Large",
-      "dividendYield": 1.2,
-      "hasDividend": "Sim"
+      "founded": "1847"
     },
     {
       "symbol": "CLX",
@@ -96,11 +72,7 @@
       "headquarters": "Oakland, California",
       "dateAdded": "1969-03-31",
       "cik": 21076,
-      "founded": "1913",
-      "marketCap": 12419009536,
-      "marketCapClassification": "Large",
-      "dividendYield": 4.82,
-      "hasDividend": "Sim"
+      "founded": "1913"
     },
     {
       "symbol": "KO",
@@ -110,11 +82,7 @@
       "headquarters": "Atlanta, Georgia",
       "dateAdded": "1957-03-04",
       "cik": 21344,
-      "founded": "1886",
-      "marketCap": 385957986304,
-      "marketCapClassification": "Mega",
-      "dividendYield": 2.38,
-      "hasDividend": "Sim"
+      "founded": "1886"
     },
     {
       "symbol": "CL",
@@ -124,11 +92,7 @@
       "headquarters": "New York City, New York",
       "dateAdded": "1957-03-04",
       "cik": 21665,
-      "founded": "1806",
-      "marketCap": 72367349760,
-      "marketCapClassification": "Large",
-      "dividendYield": 2.33,
-      "hasDividend": "Sim"
+      "founded": "1806"
     },
     {
       "symbol": "STZ",
@@ -138,11 +102,7 @@
       "headquarters": "Rochester, New York",
       "dateAdded": "2005-07-01",
       "cik": 16918,
-      "founded": "1945",
-      "marketCap": 22513721344,
-      "marketCapClassification": "Large",
-      "dividendYield": 3.13,
-      "hasDividend": "Sim"
+      "founded": "1945"
     },
     {
       "symbol": "COST",
@@ -152,11 +112,7 @@
       "headquarters": "Issaquah, Washington",
       "dateAdded": "1993-10-01",
       "cik": 909832,
-      "founded": "1976",
-      "marketCap": 419389046784,
-      "marketCapClassification": "Mega",
-      "dividendYield": 0.63,
-      "hasDividend": "Sim"
+      "founded": "1976"
     },
     {
       "symbol": "DG",
@@ -166,11 +122,7 @@
       "headquarters": "Goodlettsville, Tennessee",
       "dateAdded": "2012-12-03",
       "cik": 29534,
-      "founded": "1939",
-      "marketCap": 27234039808,
-      "marketCapClassification": "Large",
-      "dividendYield": 1.87,
-      "hasDividend": "Sim"
+      "founded": "1939"
     },
     {
       "symbol": "DLTR",
@@ -180,11 +132,7 @@
       "headquarters": "Chesapeake, Virginia",
       "dateAdded": "2011-12-19",
       "cik": 935703,
-      "founded": "1986",
-      "marketCap": 24224010240,
-      "marketCapClassification": "Large",
-      "dividendYield": null,
-      "hasDividend": "Não"
+      "founded": "1986"
     },
     {
       "symbol": "EL",
@@ -194,11 +142,7 @@
       "headquarters": "New York City, New York",
       "dateAdded": "2006-01-05",
       "cik": 1001250,
-      "founded": "1946",
-      "marketCap": 37225455616,
-      "marketCapClassification": "Large",
-      "dividendYield": 1.32,
-      "hasDividend": "Sim"
+      "founded": "1946"
     },
     {
       "symbol": "GIS",
@@ -208,11 +152,7 @@
       "headquarters": "Golden Valley, Minnesota",
       "dateAdded": "1957-03-04",
       "cik": 40704,
-      "founded": "1856",
-      "marketCap": 22157717504,
-      "marketCapClassification": "Large",
-      "dividendYield": 6.03,
-      "hasDividend": "Sim"
+      "founded": "1856"
     },
     {
       "symbol": "HSY",
@@ -222,11 +162,7 @@
       "headquarters": "Hershey, Pennsylvania",
       "dateAdded": "1957-03-04",
       "cik": 47111,
-      "founded": "1894",
-      "marketCap": 36097298432,
-      "marketCapClassification": "Large",
-      "dividendYield": 3.2,
-      "hasDividend": "Sim"
+      "founded": "1894"
     },
     {
       "symbol": "HRL",
@@ -236,11 +172,7 @@
       "headquarters": "Austin, Minnesota",
       "dateAdded": "2009-03-04",
       "cik": 48465,
-      "founded": "1891",
-      "marketCap": 11784994816,
-      "marketCapClassification": "Large",
-      "dividendYield": 5.5,
-      "hasDividend": "Sim"
+      "founded": "1891"
     },
     {
       "symbol": "KVUE",
@@ -250,11 +182,7 @@
       "headquarters": "Skillman, New Jersey",
       "dateAdded": "2023-08-25",
       "cik": 1944048,
-      "founded": "2022 (Johnson & Johnson spinoff)",
-      "marketCap": 36936474624,
-      "marketCapClassification": "Large",
-      "dividendYield": 4.38,
-      "hasDividend": "Sim"
+      "founded": "2022 (Johnson & Johnson spinoff)"
     },
     {
       "symbol": "KDP",
@@ -264,11 +192,7 @@
       "headquarters": "Burlington, Massachusetts",
       "dateAdded": "2022-06-21",
       "cik": 1418135,
-      "founded": "1981",
-      "marketCap": 44056739840,
-      "marketCapClassification": "Large",
-      "dividendYield": 2.89,
-      "hasDividend": "Sim"
+      "founded": "1981"
     },
     {
       "symbol": "KMB",
@@ -278,11 +202,7 @@
       "headquarters": "Irving, Texas",
       "dateAdded": "1957-03-04",
       "cik": 55785,
-      "founded": "1872",
-      "marketCap": 36670164992,
-      "marketCapClassification": "Large",
-      "dividendYield": 4.64,
-      "hasDividend": "Sim"
+      "founded": "1872"
     },
     {
       "symbol": "KHC",
@@ -292,11 +212,7 @@
       "headquarters": "Chicago, Illinois; Pittsburgh, Pennsylvania",
       "dateAdded": "2015-07-06",
       "cik": 1637459,
-      "founded": "2015 (1869)",
-      "marketCap": 30308468736,
-      "marketCapClassification": "Large",
-      "dividendYield": 6.37,
-      "hasDividend": "Sim"
+      "founded": "2015 (1869)"
     },
     {
       "symbol": "KR",
@@ -306,11 +222,7 @@
       "headquarters": "Cincinnati, Ohio",
       "dateAdded": "1957-03-04",
       "cik": 56873,
-      "founded": "1883",
-      "marketCap": 35325853696,
-      "marketCapClassification": "Large",
-      "dividendYield": 2.53,
-      "hasDividend": "Sim"
+      "founded": "1883"
     },
     {
       "symbol": "MKC",
@@ -320,11 +232,7 @@
       "headquarters": "Hunt Valley, Maryland",
       "dateAdded": "2003-03-20",
       "cik": 63754,
-      "founded": "1889",
-      "marketCap": 14886309888,
-      "marketCapClassification": "Large",
-      "dividendYield": 3.52,
-      "hasDividend": "Sim"
+      "founded": "1889"
     },
     {
       "symbol": "TAP",
@@ -334,11 +242,7 @@
       "headquarters": "Chicago, Illinois",
       "dateAdded": "1976-06-30",
       "cik": 24545,
-      "founded": "2005 (Molson 1786, Coors 1873)",
-      "marketCap": 7730379776,
-      "marketCapClassification": "Mid",
-      "dividendYield": 4.56,
-      "hasDividend": "Sim"
+      "founded": "2005 (Molson 1786, Coors 1873)"
     },
     {
       "symbol": "MDLZ",
@@ -348,11 +252,7 @@
       "headquarters": "Chicago, Illinois",
       "dateAdded": "2012-10-02",
       "cik": 1103982,
-      "founded": "2012",
-      "marketCap": 79226822656,
-      "marketCapClassification": "Large",
-      "dividendYield": 3.33,
-      "hasDividend": "Sim"
+      "founded": "2012"
     },
     {
       "symbol": "MNST",
@@ -362,11 +262,7 @@
       "headquarters": "Corona, California",
       "dateAdded": "2012-06-28",
       "cik": 865752,
-      "founded": "2012 (1935)",
-      "marketCap": 91899117568,
-      "marketCapClassification": "Large",
-      "dividendYield": null,
-      "hasDividend": "Não"
+      "founded": "2012 (1935)"
     },
     {
       "symbol": "PEP",
@@ -376,11 +272,7 @@
       "headquarters": "Purchase, New York",
       "dateAdded": "1957-03-04",
       "cik": 77476,
-      "founded": "1898",
-      "marketCap": 192544538624,
-      "marketCapClassification": "Large",
-      "dividendYield": 4.24,
-      "hasDividend": "Sim"
+      "founded": "1898"
     },
     {
       "symbol": "PM",
@@ -390,11 +282,7 @@
       "headquarters": "New York City, New York",
       "dateAdded": "2008-03-31",
       "cik": 1413329,
-      "founded": "2008 (1847)",
-      "marketCap": 298848550912,
-      "marketCapClassification": "Mega",
-      "dividendYield": 3.09,
-      "hasDividend": "Sim"
+      "founded": "2008 (1847)"
     },
     {
       "symbol": "PG",
@@ -404,11 +292,7 @@
       "headquarters": "Cincinnati, Ohio",
       "dateAdded": "1957-03-04",
       "cik": 80424,
-      "founded": "1837",
-      "marketCap": 333288833024,
-      "marketCapClassification": "Mega",
-      "dividendYield": 3,
-      "hasDividend": "Sim"
+      "founded": "1837"
     },
     {
       "symbol": "SJM",
@@ -418,11 +302,7 @@
       "headquarters": "Orrville, Ohio",
       "dateAdded": "2008-11-06",
       "cik": 91419,
-      "founded": "1897",
-      "marketCap": 14190925824,
-      "marketCapClassification": "Large",
-      "dividendYield": 3.4,
-      "hasDividend": "Sim"
+      "founded": "1897"
     },
     {
       "symbol": "SYY",
@@ -432,11 +312,7 @@
       "headquarters": "Houston, Texas",
       "dateAdded": "1986-12-31",
       "cik": 96021,
-      "founded": "1969",
-      "marketCap": 39338573824,
-      "marketCapClassification": "Large",
-      "dividendYield": 2.67,
-      "hasDividend": "Sim"
+      "founded": "1969"
     },
     {
       "symbol": "TGT",
@@ -446,11 +322,7 @@
       "headquarters": "Minneapolis, Minnesota",
       "dateAdded": "1976-12-31",
       "cik": 27419,
-      "founded": "1902",
-      "marketCap": 73985908736,
-      "marketCapClassification": "Large",
-      "dividendYield": 2.83,
-      "hasDividend": "Sim"
+      "founded": "1902"
     },
     {
       "symbol": "TSN",
@@ -460,11 +332,7 @@
       "headquarters": "Springdale, Arkansas",
       "dateAdded": "2005-08-10",
       "cik": 100493,
-      "founded": "1935",
-      "marketCap": 19472211968,
-      "marketCapClassification": "Large",
-      "dividendYield": 3.61,
-      "hasDividend": "Sim"
+      "founded": "1935"
     },
     {
       "symbol": "WMT",
@@ -474,11 +342,7 @@
       "headquarters": "Bentonville, Arkansas",
       "dateAdded": "1982-08-31",
       "cik": 104169,
-      "founded": "1962",
-      "marketCap": 820264632320,
-      "marketCapClassification": "Mega",
-      "dividendYield": 0.96,
-      "hasDividend": "Sim"
+      "founded": "1962"
     }
   ]
 }
