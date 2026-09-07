@@ -1,6 +1,6 @@
 # S&P 500 — Setor Utilities
 
-> Fonte: `utilities.json` · Gerado em: 2026-08-31 · Total: 31 empresas
+> Fonte: `utilities.json` · Gerado em: 2026-09-07 · Total: 31 empresas
 
 | # | Símbolo | Empresa | Subindústria | Sedes |
 |---|---------|---------|--------------|-------|

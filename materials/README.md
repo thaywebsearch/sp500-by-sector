@@ -1,6 +1,6 @@
 # S&P 500 — Setor Materials
 
-> Fonte: `materials.json` · Gerado em: 2026-08-31 · Total: 25 empresas
+> Fonte: `materials.json` · Gerado em: 2026-09-07 · Total: 25 empresas
 
 | # | Símbolo | Empresa | Subindústria | Sedes |
 |---|---------|---------|--------------|-------|

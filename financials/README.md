@@ -1,6 +1,6 @@
 # S&P 500 — Setor Financials
 
-> Fonte: `financials.json` · Gerado em: 2026-08-31 · Total: 76 empresas
+> Fonte: `financials.json` · Gerado em: 2026-09-07 · Total: 76 empresas
 
 | # | Símbolo | Empresa | Subindústria | Sedes |
 |---|---------|---------|--------------|-------|

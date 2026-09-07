@@ -1,7 +1,7 @@
 {
   "sector": "Industrials",
   "count": 83,
-  "generatedAt": "2026-08-31",
+  "generatedAt": "2026-09-07",
   "source": "https://raw.githubusercontent.com/datasets/s-and-p-500-companies/main/data/constituents.csv",
   "companies": [
     {
@@ -298,7 +298,7 @@
       "symbol": "FERG",
       "name": "Ferguson Enterprises",
       "sector": "Industrials",
-      "subIndustry": "Building Products",
+      "subIndustry": "Trading Companies & Distributors",
       "headquarters": "Newport News, Virginia",
       "dateAdded": "2026-08-05",
       "cik": 2011641,

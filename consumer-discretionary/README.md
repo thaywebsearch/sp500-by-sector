@@ -1,6 +1,6 @@
 # S&P 500 — Setor Consumer Discretionary
 
-> Fonte: `consumer-discretionary.json` · Gerado em: 2026-08-31 · Total: 47 empresas
+> Fonte: `consumer-discretionary.json` · Gerado em: 2026-09-07 · Total: 47 empresas
 
 | # | Símbolo | Empresa | Subindústria | Sedes |
 |---|---------|---------|--------------|-------|

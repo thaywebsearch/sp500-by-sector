@@ -1,6 +1,6 @@
 # S&P 500 — Setor Information Technology
 
-> Fonte: `information-technology.json` · Gerado em: 2026-08-31 · Total: 73 empresas
+> Fonte: `information-technology.json` · Gerado em: 2026-09-07 · Total: 73 empresas
 
 | # | Símbolo | Empresa | Subindústria | Sedes |
 |---|---------|---------|--------------|-------|

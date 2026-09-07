@@ -1,6 +1,6 @@
 # S&P 500 — Setor Communication Services
 
-> Fonte: `communication-services.json` · Gerado em: 2026-08-31 · Total: 24 empresas
+> Fonte: `communication-services.json` · Gerado em: 2026-09-07 · Total: 24 empresas
 
 | # | Símbolo | Empresa | Subindústria | Sedes |
 |---|---------|---------|--------------|-------|

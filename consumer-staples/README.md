@@ -1,6 +1,6 @@
 # S&P 500 — Setor Consumer Staples
 
-> Fonte: `consumer-staples.json` · Gerado em: 2026-08-31 · Total: 34 empresas
+> Fonte: `consumer-staples.json` · Gerado em: 2026-09-07 · Total: 34 empresas
 
 | # | Símbolo | Empresa | Subindústria | Sedes |
 |---|---------|---------|--------------|-------|

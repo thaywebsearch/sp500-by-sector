@@ -1,6 +1,6 @@
 # S&P 500 — Setor Energy
 
-> Fonte: `energy.json` · Gerado em: 2026-08-31 · Total: 21 empresas
+> Fonte: `energy.json` · Gerado em: 2026-09-07 · Total: 21 empresas
 
 | # | Símbolo | Empresa | Subindústria | Sedes |
 |---|---------|---------|--------------|-------|

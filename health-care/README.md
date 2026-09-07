@@ -1,6 +1,6 @@
 # S&P 500 — Setor Health Care
 
-> Fonte: `health-care.json` · Gerado em: 2026-08-31 · Total: 59 empresas
+> Fonte: `health-care.json` · Gerado em: 2026-09-07 · Total: 59 empresas
 
 | # | Símbolo | Empresa | Subindústria | Sedes |
 |---|---------|---------|--------------|-------|

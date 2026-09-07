@@ -1,6 +1,6 @@
 # S&P 500 — Setor Real Estate
 
-> Fonte: `real-estate.json` · Gerado em: 2026-08-31 · Total: 30 empresas
+> Fonte: `real-estate.json` · Gerado em: 2026-09-07 · Total: 30 empresas
 
 | # | Símbolo | Empresa | Subindústria | Sedes |
 |---|---------|---------|--------------|-------|

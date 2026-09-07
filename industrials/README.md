@@ -1,6 +1,6 @@
 # S&P 500 — Setor Industrials
 
-> Fonte: `industrials.json` · Gerado em: 2026-08-31 · Total: 83 empresas
+> Fonte: `industrials.json` · Gerado em: 2026-09-07 · Total: 83 empresas
 
 | # | Símbolo | Empresa | Subindústria | Sedes |
 |---|---------|---------|--------------|-------|
@@ -33,7 +33,7 @@
 | 27 | FAST | Fastenal | Trading Companies & Distributors | Winona, Minnesota |
 | 28 | FDX | FedEx | Air Freight & Logistics | Memphis, Tennessee |
 | 29 | FDXF | FedEx Freight | Cargo Ground Transportation | Memphis, Tennessee |
-| 30 | FERG | Ferguson Enterprises | Building Products | Newport News, Virginia |
+| 30 | FERG | Ferguson Enterprises | Trading Companies & Distributors | Newport News, Virginia |
 | 31 | FTV | Fortive | Industrial Machinery & Supplies & Components | Everett, Washington |
 | 32 | GE | GE Aerospace | Aerospace & Defense | Evendale, Ohio |
 | 33 | GEV | GE Vernova | Heavy Electrical Equipment | Cambridge, Massachusetts |
